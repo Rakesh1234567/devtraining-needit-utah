@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f02658b0c3fbee10e679fa0ed4013173" label="TestTable" max_length="40" name="x_58872_needit_testtable" type="collection">
+        <element label="Phone Numbe" max_length="40" name="phone_numbe" type="phone_number_e164"/>
+    </element>
+</database>
